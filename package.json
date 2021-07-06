@@ -1,0 +1,8 @@
+{
+  "name": "marda",
+  "version": "0.0.1",
+  "description": "React Native Authentication Template",
+  "repository": "https://github.com/aethiop/marda.git",
+  "author": "Marda Studios",
+  "license": "MIT"
+}
